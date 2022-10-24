@@ -1,0 +1,8 @@
+Q1,Q2,Q3_1,Q4,Q5,Q6_1,Q7
+Enter Participant ID:,How would rate your experience with the driving simulator?,How well would you agree with the statement that the driving simulation seemed immersive/real? - The driving simulation seemed immersive/real?,What type of display would your prefer?,What type of text display technique would your prefer?,Rate the level of motion sickness you experienced during the expirement - Level of motion sickness,Do you have any additional comment(s) or experience(s) related to the experiment you would like to share?
+"{""ImportId"":""QID3_TEXT""}","{""ImportId"":""QID4""}","{""ImportId"":""QID7_1""}","{""ImportId"":""QID5""}","{""ImportId"":""QID8""}","{""ImportId"":""QID6_1""}","{""ImportId"":""QID9_TEXT""}"
+T01,2,7,1,2,,
+T02,2,7,1,2,,
+T03,2,8,1,1,,
+T04,2,8,1,2,1,
+T06,2,8,1,2,,"With no audio assist, I preferred the scrolling, but with audio I preferred the RVSP. This is because the scroll rate of the RVSP was not quite synced to my reading speed and cadence when the audio was playing."

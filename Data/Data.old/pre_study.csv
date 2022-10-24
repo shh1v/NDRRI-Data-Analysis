@@ -1,0 +1,9 @@
+﻿ID,Sex,Age,Ethnicity,Education,Education_6_TEXT,Frequency of Driving,Driving Style,Kilometers driven,Driving skills
+Enter Participant ID:,What is your assigned sex at birth?,What is your age?,Please specify your ethnicity,What is the highest degree or level of education you have completed? - Selected Choice,What is the highest degree or level of education you have completed? - Other (Please Specify) - Text,How frequently do you drive?,What type of driving do you usually do?,How many kilometers (in total) have you driven?,How would you rate your driving skills?
+P01,Male,20,Caucasian,High School,,A few days a month,Short distance travel (25km-Â­100km round trip).,"0 kms - 50,000 kms",Average
+P02,Male,22,Caucasian,High School,,A few days a week.,Short distance travel (25km-Â­100km round trip).,"50,000 kms - 100,000 kms",Excellent
+P03,Male,31,Asian,Bachelor's Degree,,A few times a year,Short distance travel (25km-Â­100km round trip).,"50,000 kms - 100,000 kms",Good
+T01,Male,21,Latino or Hispanic,High School,,A few times a year,Short distance travel (25km-Â­100km round trip).,"0 kms - 50,000 kms",Good
+T02,Male,29,Other/Unknown,Bachelor's Degree,,A few times a year,Short distance travel (25km-Â­100km round trip).,"100,000 kms - 500,000 kms",Good
+,,24.6,,,,,,,
+,,5.029910536,,,,,,,
