@@ -1,4 +1,4 @@
-Participant_ID,Text Presentation Technique,Audio Assistance,Reaction Time (in secs.)
+Participant_ID,TPT,AA,RT
 P06,STP,Audio Assistance Disabled,1.326714
 P06,STP,Audio Assistance Disabled,0.914085
 P06,STP,Audio Assistance Enabled,1.542885
